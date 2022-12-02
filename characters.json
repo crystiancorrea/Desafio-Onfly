@@ -1,0 +1,74 @@
+{
+    "personagens": [
+        {
+            "nome": "Bob Esponja",
+            "genero": "Masculino",
+            "especie": "Esponja",
+            "profissao": "Cozinheiro"
+        },
+
+        {
+            "nome": "Patrick Estrela",
+            "genero": "Masculino",
+            "especie": "Estrela-do-mar",
+            "profissao": "Desempregado"
+        },
+
+        {
+            "nome": "Lula Molusco",
+            "genero": "Masculino",
+            "especie": "Polvo",
+            "profissao": "Operador de Caixa"
+        },
+
+        {
+            "nome": "Seu Siriguejo",
+            "genero": "Masculino",
+            "especie": "Caranguejo",
+            "profissao": "Dono do restaurante Siri Cascudo"
+        },
+
+        {
+            "nome": "Plankton",
+            "genero": "Masculino",
+            "especie": "Camarão",
+            "profissao": "Dono do restaurante Balde de Lixo"
+        },
+
+        {
+            "nome": "Sandy Bochechas",
+            "genero": "Feminino",
+            "especie": "Esquilo",
+            "profissao": "Cientista"
+        },
+
+        {
+            "nome": "Gary Caracol",
+            "genero": "Masculino",
+            "especie": "Esquilo",
+            "profissao": "Animal de Estimação"
+        },
+
+        {
+            "nome": "Pérola",
+            "genero": "Feminino",
+            "especie": "Baleia",
+            "profissao": "Aluna"
+        },
+
+        {
+            "nome": "Sra. Puff",
+            "genero": "Feminino",
+            "especie": "Baiacu",
+            "profissao": "Professora"
+        },
+
+        {
+            "nome": "Karen",
+            "genero": "Feminino",
+            "especie": "Computador",
+            "profissao": "Esposa e ajudadnte do Plankton"
+        }
+
+    ]
+}
