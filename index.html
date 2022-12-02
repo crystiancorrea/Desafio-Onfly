@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    
+    <title>Document</title>
+</head>
+<body>
+    <img src="./image/topo.png" alt="Turma do Bob Esponja" width=1300 height=200>
+    
+    <div id="personagens">
+        <img src="" alt="">
+
+
+    </div>
+    <script>
+        let divUsuarios = document.querySelector("#personagens")
+
+        fetch("characters.json").then((response) => {
+            response.json().then((characters) => {
+                characters.personagens.map((personagem) => {
+                    divUsuarios.innerHTML += 
+                    
+                `<div class="lista">
+                    <ul>
+
+                        <div class="obj">
+                            <li> <div class="nome"> Meu nome é: ${personagem.nome} </div> <br/> </li>
+                            <li> <div class="genero"> Meu gênero é: ${personagem.genero} </div> <br/> </li>
+                            <li> <div class="especie"> Sou um(a): ${personagem.especie} </div> <br/> </li>
+                            <li> <div class="profissao"> Minha profissão na Fenda do Biquini é: ${personagem.profissao} </div> </li>
+                        </div>
+
+                    </ul>
+                </div>    
+                `
+                })
+            })
+        })
+    </script>
+</body>
+</html>
