@@ -9,6 +9,10 @@ Desafio de consumir arquivo Json
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <img alt="desafio" src="image/desafio.png" width="100%">
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
