@@ -5,7 +5,7 @@ Desafio de consumir arquivo Json
 </p>
 
 <p align="center">
-  Clique no link para acessar a tela do desafio <a href="https://crystiancorrea.github.io/Desafio-Onfly/">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  Clique no link para acessar a tela do desafio <a href="https://crystiancorrea.github.io/Desafio-Onfly/">
 </p>
 
 <p align="center">
