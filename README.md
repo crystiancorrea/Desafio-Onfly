@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desafio simples com o objetivo de criar um arquivo Json contendo os personagens de Bob Esponja e informar o nome, gênero, espécie e profissão de cada personagem, em seguida consumir esse Json usando alguma linguagem de proggramação (escolhi Javascript).
+Desafio simples com o objetivo de criar um arquivo Json contendo os personagens de Bob Esponja e informar o nome, gênero, espécie e profissão de cada personagem, em seguida consumir esse Json usando alguma linguagem de programação (escolhi Javascript utilizando o método Fetch).
 
 
 ---
